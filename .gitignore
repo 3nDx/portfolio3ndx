@@ -1,0 +1,7 @@
+#EJEMPLOS DE IGNORAR ARCHIVOS
+
+# *.txt			#ignora todos los archivos con extension <.txt>#
+# <nombre>.txt		#ignora el archivo especifico <nombre> con la extension <.txt>
+# <nombre>.<extension>	#plantilla general
+styles.css
+script.js
